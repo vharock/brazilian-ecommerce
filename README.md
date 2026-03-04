@@ -2,13 +2,13 @@
 Construção de Dashboard de Indicadores 
 
 # Problema de negócio
+
 A TUDO AQUI é uma empresa brasileira de e-commerce que começou a crescer, porém até então, a maioria das suas decisões é tomada pelo time diretivo de forma intuitiva, sem muita análise e precisão. Por não analisar indicadores, a empresa já tomou algumas decisões erradas que a levaram a tomar prejuízos.
 Para que a empresa continue a crescer de forma saudável, o CEO que se sente “cegoˮ em relação aos dados da empresa, decidiu implementar Business Intelligence com o intuito de ter indicadores que o ajudem a tomar decisões melhores. Devido aos prejuízos identificados, foi estabelecido pelo CEO que a empresa não se apegue mais a suposições, mas que a partir de agora adote a metodologia Data Driven na tomada de decisões estratégicas.
 
 As frentes analisadas serão respectivamente: 
 
 Produto:
-
 1.Quantidade de Produtos Cadastrados
 2.Quantidade Total de Categorias
 3.Quantidade Total de Fotos
@@ -16,22 +16,19 @@ Produto:
 5.Quantidade de Fotos por Categoria
 
 Pagamentos:
-
 1.Quantidade de pedidos
 2.Valor total de pagamentos
 3.Quantidade de pagamentos
 4.Quantidade de pagamentos por tipo de pagamento (um por cartão)
 
 Pedidos:
-
-1. Quantidade de pedidos
-2. Quantidade de clientes
-3. Quantidade de pedidos do ano de 2017
-4. Quantidade de pedidos do ano de 2018
-5. Taxa de Crescimento (2017 - 2018)
+1.Quantidade de pedidos
+2.Quantidade de clientes
+3.Quantidade de pedidos do ano de 2017
+4.Quantidade de pedidos do ano de 2018
+5.Taxa de Crescimento (2017 - 2018)
 
 Avaliações:
-
 1.Quantidade de avaliações únicas
 2.Quantidade de avaliações únicas para o score 4 e 5 
 3.Média de tempo em dias das avaliações que não receberam retorno no mesmo dia que a avaliação foi criada
@@ -40,7 +37,6 @@ Avaliações:
 6.Taxa de crescimento entre os anos de 2018 e 2017 para os clientes score 4 e 5 dos estados SP e RJ 
 
 Vendedores:
-
 1.Quantidade total de vendedores (Detalhes de Vendedores)
 2.Total de vendas
 3.Total de vendas dos itens com valor superior a R$500.000 (Detalhes de Itens Vendidos)
@@ -48,15 +44,15 @@ Vendedores:
 5.Quantidade de vendedores que venderam dentro ou acima da meta
 
 Vendas:
-
 1.Total de Vendas
 2.Total Acumulado YTD (Ano Atual)
 3.Total Acumulado YTD (Ano Anterior)
 4.Taxa de Crescimento Acumulado (Ano Atual x Ano Anterior)
-5.% de Desconto de Frete 
+5.Porcentagem de Desconto de Frete 
 
 
 # Premissas da análise
+
 Análise foi feita com dados do Dataset Brazillian e-Commerce - Autoupdated dataset com link para o Kaggle: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 Marketplace foi o modelo de negócio assumido.
 As principais visões de negócio foram: Produto, Pagamentos, Pedidos, Avaliações, Vendedores e Vendas.
@@ -111,7 +107,8 @@ anos na tela.
 # Conclusão
 
 
-## Visualize a análise completa
+# Visualize a análise completa
+
 https://app.powerbi.com/view?r=eyJrIjoiNzY5MzEwYjQtNTRhMS00NjcxLTgyMmUtZDI2YWFhMTE1OTdjIiwidCI6IjcwODUzMjhjLTBkNzQtNDg3My1hZTYyLWVhZWEwYTYyM2UyZSJ9
 
 # Próximos passos
