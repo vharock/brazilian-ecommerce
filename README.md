@@ -57,7 +57,7 @@ Análise foi feita com dados do Dataset Brazillian e-Commerce - Autoupdated data
 Marketplace foi o modelo de negócio assumido.
 As principais visões de negócio foram: Produto, Pagamentos, Pedidos, Avaliações, Vendedores e Vendas.
 
-#Estratégia da solução
+# Estratégia da solução
 O painel estratégico foi desenvolvido utilizando as métricas que refletem as principais visões do modelo de negócio da empresa:
 
 Cada visão é representada pelo seguinte conjunto de métricas.
