@@ -103,12 +103,37 @@ anos na tela.
 
 # Top Insights da análise
 
+Pensando exclusivamente na parte da retenção de vendedores, pois tendo mais vendedores usando meu e-commerce maior meu faturamento.
+
+1. O maior churn acontece nos primeiros 3–4 meses  Jan/2017: 75% → 57% (M3) Fev/2017: 63% → 49% Mar/2017: 57% → 50%
+Muitos vendedores entram.  Testam a plataforma. Não performam. Saem rapidamente
+Conclusão: Temos um problema de ativação de sellers. Não é retenção de longo prazo. É falha na fase de "primeira tração".
+
+3. Quem passa de 6 meses tende a ficar. Depois do mês 6–8, a queda desacelera muito.
+Vários cohorts estabilizam entre: 30% e 40%
+Significa que: Existe um grupo que encontra PMF na plataforma. Quem aprende a vender, continua. O churn é concentrado nos que nunca engrenam
+
+4. 2017 mostra deterioração de qualidade. Os primeiros cohorts começam muito fortes: Jan/2017: 75%. Fev/2017: 63%.
+Depois cai: Nov/2017: 57%. Dez/2017: 53%.
+Isso sugere: A plataforma começou a escalar aquisição. Entraram sellers menos qualificados. Critério de entrada pode ter relaxado
+
+5. 2018 melhora novamente. Mar–Jul 2018 começam com:62%,64%,65%
+Isso sugere: Melhor qualificação na entrada. Ajustes no onboarding. Melhor suporte inicial. Melhor tráfego para sellers
+
 
 # Conclusão
 
+Não temos problema estrutural de retenção. Temos problema de: Transformar seller recém-cadastrado em seller com venda recorrente.
+O modelo morre quando: Precisa repor base inteira todo ano. A maioria não passa do 3º mês
+Mas no nosso caso: Existe um núcleo fiel. Existe estabilidade pós M6. Isso é saudável
 
 # Visualize a análise completa
 
-https://app.powerbi.com/view?r=eyJrIjoiNzY5MzEwYjQtNTRhMS00NjcxLTgyMmUtZDI2YWFhMTE1OTdjIiwidCI6IjcwODUzMjhjLTBkNzQtNDg3My1hZTYyLWVhZWEwYTYyM2UyZSJ9
+https://app.powerbi.com/view?r=eyJrIjoiMGZlMmM0NjctMmVlNC00M2VkLThlZWYtNGRlZTI0NmNkNTBhIiwidCI6IjcwODUzMjhjLTBkNzQtNDg3My1hZTYyLWVhZWEwYTYyM2UyZSJ9&pageName=e68972d3e1b0666d51b3
 
 # Próximos passos
+
+Análise de churn nos primeiros 90 dias
+Segmentação por canal de aquisição
+Segmentação por plano
+Comparação de LTV por cohort
