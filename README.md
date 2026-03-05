@@ -133,7 +133,7 @@ https://app.powerbi.com/view?r=eyJrIjoiMGZlMmM0NjctMmVlNC00M2VkLThlZWYtNGRlZTI0N
 
 # Próximos passos
 
-Análise de churn nos primeiros 90 dias
-Segmentação por canal de aquisição
-Segmentação por plano
-Comparação de LTV por cohort
+Análise de churn nos primeiros 90 dias.
+Segmentação por canal de aquisição.
+Segmentação por plano.
+Comparação de LTV por cohort.
